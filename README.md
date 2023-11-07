@@ -1,2 +1,2 @@
 # Pattern-Making
-C++ program to make an inverted pattern
+C++ programs to make differnet patterns
